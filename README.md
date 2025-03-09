@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning audio-first Multimodal ML, Reinforcement Learning, Auditory Perception & Experimental Performances
 - 👯 I’m looking to collaborate on Audio AI and DSP projects (strong preference for Free software)
-- 🤔 I’m looking for help with the development and automated testing of my MIT-licensed [MIDI Augmentation Python library](https://github.com/a-pillay/MIDIOgre]).
+- 🤔 I’m looking for help with the development and automated testing of my MIT-licensed [MIDI Augmentation Python library](https://github.com/a-pillay/MIDIOgre).
 - 🤝 I'm a contributer to the following projects:
   -  [pretty-midi](https://github.com/craffel/pretty-midi)
 - 📫 How to reach me: Check out my [website](https://ashwinpillay.com/)
